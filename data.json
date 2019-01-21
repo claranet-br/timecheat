@@ -1,0 +1,36 @@
+{
+    "username" : "denys.gonzaga@br.clara.net",
+    "password" : "minha_senha",
+    "timesheet" : [
+      {
+        "ent" : "ENT-20170811-001124",
+        "dt" : "19/11/2018",
+        "desc" : "Alteração de codigo do QAR do E2 para o padrão de qualidade embraer (Sonar) e execução do data quality."
+      },
+      {
+        "ent" : "ENT-20170811-001124",
+        "dt" : "20/11/2018",
+        "desc" : "Alteração de codigo do QAR do E2 para o padrão de qualidade embraer (Sonar) e execução do data quality."
+      },
+      {
+        "ent" : "ENT-20170811-001124",
+        "dt" : "21/11/2018",
+        "desc" : "Testes de verificação de objetos e decodificadores em produção. Preparação para Go Live."
+      },
+      {
+        "ent" : "ENT-20170811-001124",
+        "dt" : "22/11/2018",
+        "desc" : "Testes de verificação de objetos e decodificadores em produção. Preparação para Go Live."
+      },
+      {
+        "ent" : "ENT-20170811-001124",
+        "dt" : "23/11/2018",
+        "desc" : "Apoio ao Go Live."
+      },
+      {
+        "ent" : "ENT-20170811-001124",
+        "dt" : "24/11/2018",
+        "desc" : "Apoio ao Go Live."
+      }
+    ]	
+  }
